@@ -1,0 +1,13 @@
+Package: com.emtimcook.LSthuan
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: thuan <emtimcook113@gmail.com>
+Filename: ./debs/LSthuan.deb
+Size: 1014074
+MD5sum: 354a910b38ae4ecabc9350d1a8ea742a
+Section: Widgets
+Homepage: https://emtimcook113.github.io/test
+Description: LS widget cho ios 11
+Author: thuan <emtimcook113@gmail.com>
+Depiction: https://emtimcook113.github.io/test
+Name: LSthuan
